@@ -1,0 +1,14 @@
+C:\Projects\EFactor\FechaMes\bin\Debug\net7.0\FechaMes.exe
+C:\Projects\EFactor\FechaMes\bin\Debug\net7.0\FechaMes.deps.json
+C:\Projects\EFactor\FechaMes\bin\Debug\net7.0\FechaMes.runtimeconfig.json
+C:\Projects\EFactor\FechaMes\bin\Debug\net7.0\FechaMes.dll
+C:\Projects\EFactor\FechaMes\bin\Debug\net7.0\FechaMes.pdb
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.AssemblyInfoInputs.cache
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.AssemblyInfo.cs
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.csproj.CoreCompileInputs.cache
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.dll
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\refint\FechaMes.dll
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.pdb
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\FechaMes.genruntimeconfig.cache
+C:\Projects\EFactor\FechaMes\obj\Debug\net7.0\ref\FechaMes.dll
